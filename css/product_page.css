@@ -1,0 +1,49 @@
+h2 {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+h3 {
+	margin-top: 2em;
+}
+
+.mainimg {
+	background-color: #723D46;
+	max-width: 500px
+}
+
+.chooseimg {
+	background-color: #723D46;
+}
+
+#chooseColour {
+	list-style: none;
+	padding: 0;
+	overflow: hidden;
+	width: 200px;
+}
+#chooseColour li {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	border-radius: 30px;
+}
+#colourOne {
+	background: #C9CBA3;
+}
+#colourTwo {
+	background: #FFE1A8;
+}
+#colourThree {
+	background: #E26D5C;
+}
+#colourFour {
+	background: #723D46;
+}
+#colourFive {
+	background: #472D30;
+}
+
+.placeholder {
+	background-color: #C9CBA3;
+}
